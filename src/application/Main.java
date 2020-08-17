@@ -22,7 +22,7 @@ public class Main extends Application {
 
     public static void main(String[] args) throws Exception{
 //        launch(args);
-        Game rainbow = new Game("Rainbow Six Siege", "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Tom Clancy's Rainbow Six Siege");
+        Game rainbow = new Game("Rainbow Six Siege", "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Tom Clancy's Rainbow Six Siege\\RainbowSix.exe");
         Game valorant = new Game("Valorant", "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games");
         rainbow.launchGame();
 
