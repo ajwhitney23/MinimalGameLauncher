@@ -2,11 +2,11 @@
   "games" : {
     "valorant" : {
       "name" : "Valorant",
-      "path" : "\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games"
+      "path" : "C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Riot Games/VALORANT.lnk"
     },
     "rainbow" : {
       "name" : "Rainbow Six Siege",
-      "path" : "\\Program Files (x86)\\Steam\\steamapps\\common\\Tom Clancy's Rainbow Six Siege\\RainbowSix.exe"
+      "path" : "C:/Program Files (x86)/Steam/steamapps/common/Tom Clancy's Rainbow Six Siege/RainbowSix.exe"
     }
   }
 }
