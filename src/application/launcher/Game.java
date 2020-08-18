@@ -1,13 +1,5 @@
 package application.launcher;
 
-import java.awt.*;
-import java.io.File;
-import java.io.IOException;
-import java.lang.reflect.Array;
-import java.net.URL;
-import java.util.ArrayList;
-import java.util.List;
-
 public class Game {
     private String name;
     private String path;
